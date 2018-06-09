@@ -10,6 +10,7 @@ import init_global_variate as igv
 import datetime
 import check_database_name as cdn
 import write_record_to_database as wrtd
+#¿¿¿¿¿¿¿¿¿¿···
 
 def main():
 
@@ -91,4 +92,4 @@ if __name__=='__main__':
     
     gc.collect()
     print 'over program!'
-    
+   
